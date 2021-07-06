@@ -1,2 +1,3 @@
 # Hidden-wireless-charger
 wireless charger that hides under the top of a nightstand and charges your phone during a set window or when the override button is pressed.
+Pin A0 connects to the positive wire from the charger, pin 4 connects to the positive from the timer, pin 5 connects to the override button, pin 6 feeds the relay that will power the charger. The timer mentioned above reffers a timer that allows you to set a time in which it will be power high, they can be purchased for a few dollars. To preserve the phone's battery life the charger will only charge the phone once during the set window of time unless the override button is pressed.

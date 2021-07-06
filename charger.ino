@@ -3,7 +3,7 @@
  * Description: wireless charger that only charges during a set time period or if the override button is pressed
  */
 
-int charger=3, timer=4, button=6, relay=5, range=400;
+int charger=A0, timer=4, button=6, relay=5, range=400;
 bool charged=false;
 
 void setup() {
